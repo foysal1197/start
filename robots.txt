@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.talabat.com/sitemap/sitemap.xml.gz
